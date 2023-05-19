@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BleDemo</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="stop_scanning">Stop Scanning</string>
+    <string name="ble_demo">BLE DEMO</string>
+    <string name="StopScanning">Stop Scanning</string>
+</resources>
